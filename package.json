@@ -1,0 +1,25 @@
+{
+  "name": "electron-folder-opener",
+  "version": "0.2.1",
+  "description": "A tool to open local folders via a click on a web page",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron . --version-string.FileDescription=FolderOpener"
+  },
+  "repository": "https://github.com/Raul6469/electron-folder-opener",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Raul6469",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "~1.6.2"
+  },
+  "dependencies": {
+    "electron-prebuilt": "^1.4.13"
+  }
+}
